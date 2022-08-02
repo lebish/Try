@@ -1,5 +1,5 @@
 # GetResponse
-API controllers to providing info for 'get response',
+API controllers to provide info for 'get response',
 
 base url http://api.leibish.com/api.
 
