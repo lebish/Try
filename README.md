@@ -1,7 +1,7 @@
 # GetResponse
 API controllers to providing info for 'get response',
 
-base url http://localhost:8080/api.
+base url http://api.leibish.com/api.
 
 > **Note**
 >required fields us marked with *.
