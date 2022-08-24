@@ -44,9 +44,9 @@ fields:
 <img src="https://user-images.githubusercontent.com/109727432/182302488-1cdc2a5e-9c78-49d8-9799-0831b1678077.png" data-canonical-src="https://user-images.githubusercontent.com/109727432/182302488-1cdc2a5e-9c78-49d8-9799-0831b1678077.png" width="350" height="200"   />
 
 
-## get balance 'loyalty points' for every member 
+## get all members
 
-**get** `/member/loyaltyPoints`
+**get** `/member/list`
 
 
 heders:
@@ -55,6 +55,4 @@ heders:
 
 fields:
 
-<img src="https://user-images.githubusercontent.com/109727432/183834968-89e7c64f-1c19-4328-b900-78d829304a62.png" data-canonical-src="https://user-images.githubusercontent.com/109727432/183834968-89e7c64f-1c19-4328-b900-78d829304a62.png" width="350" height="200"  />
-
-
+<img src="https://user-images.githubusercontent.com/109727432/186400103-78e7b84a-26f6-46a2-b919-0653bb7f9d04.png" data-canonical-src="https://user-images.githubusercontent.com/109727432/186400103-78e7b84a-26f6-46a2-b919-0653bb7f9d04.png" width="350" height="200"  />
